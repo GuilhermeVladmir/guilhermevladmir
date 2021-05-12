@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Guicoutos/guicoutos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![readme](https://user-images.githubusercontent.com/52833499/118050851-6f40a900-b356-11eb-9c3c-e93a38daec62.png)
