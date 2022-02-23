@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![readme](https://user-images.githubusercontent.com/52833499/118050851-6f40a900-b356-11eb-9c3c-e93a38daec62.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome to my Git! ;Bem-vindo ao meu Git!;I'm a IT developer learning new things everyday)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome!;Developer+learning+new+things)](https://git.io/typing-svg)
 
 💬 ABOUT ME
 
