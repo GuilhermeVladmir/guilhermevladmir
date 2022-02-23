@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 - Acredito ser importante, como estudante, me esforçar para experimentar lidar com diferentes áreas.
 - SEMPRE tento melhorar e estudar para fazer um bom trabalho.
 - Possuo diploma técnico em TI.
+
+Meu portfólio: https://guicoutos.github.io/guilherme-site/
