@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 💬 ABOUT ME
 
-- I'm currently at the university, system analysis and development.
+- Fresh from college, system analysis and development.
 - I'm learning a lot about app development, although I also love frontend.
 - I believe it's important to make an effort to get experience in different areas as a student.
 - ALWAYS trying to improve to make a good work.
@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 💬 SOBRE MIM
 
-- Estou atualmente na faculdade, cursando Análise e Desenvolvimento de Sistemas.
+- Recém-formado em Análise e Desenvolvimento de Sistemas.
 - Estou aprendendo muito sobre desenvolvimento de aplicativos, apesar do meu amor por frontend.
 - Acredito ser importante, como estudante, me esforçar para experimentar lidar com diferentes áreas.
 - SEMPRE tento melhorar e estudar para fazer um bom trabalho.
 - Possuo diploma técnico em TI.
 
-Meu portfólio: https://guicoutos.github.io/guilherme-site/
+Meu portfólio: www.guilhermevladmir.com
